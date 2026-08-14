@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/thanoj-18/Web_project#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
   }
 }
